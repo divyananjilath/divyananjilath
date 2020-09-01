@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <!--
-
 Here are some ideas to get you started:
 -->
 - 🌱 Budding ComputerScience Engineer on the level 4 of experience as an Engineering student.
